@@ -51,7 +51,7 @@
 	</dependencies>
 
 	<build>    
-		<finalName>ROOT</finalName>
+		<finalName>HotelCoupon</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
